@@ -1,4 +1,4 @@
-#include <iostream>
+/#include <iostream>
 
 // void형 함수 선언
 void time(int hour, int minute);
@@ -21,4 +21,4 @@ int main() {
 
 void time(int hour, int minute) {
 	cout << "시각: " << hour << ":" << minute << endl;
-}
+}/
